@@ -1,4 +1,4 @@
-import json
+import data
 
 FILE_NAME = "students.json"
 
